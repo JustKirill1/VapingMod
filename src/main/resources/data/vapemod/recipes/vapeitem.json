@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "#YA",
+    "#Z#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "X": {
+      "item": "minecraft:glass"
+    },
+    "Y": {
+      "item": "minecraft:copper_ingot"
+    },
+    "A": {
+      "item": "minecraft:stone_button"
+    },
+    "Z": {
+      "item": "minecraft:redstone"
+    }
+  },
+
+  "result": {
+    "item": "vapemod:vapeaegis"
+  },
+  "tag": {
+    "Enchantments": {
+      "id": "infinity",
+      "lvl": "1"
+    }
+  }
+}

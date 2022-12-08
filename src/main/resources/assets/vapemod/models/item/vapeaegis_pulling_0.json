@@ -1,0 +1,6 @@
+{
+  "parent": "vapemod:item/vapeaegis",
+  "textures": {
+    "layer0": "vapemod:item/vapeaegis_pulling_0"
+  }
+}
